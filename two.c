@@ -7,5 +7,5 @@ void main()
 	int e=a%b;
 	int f=a/b;
 	c=a*b;
-	printf("%d",c);
+	printf("%d%d%d",c,e,f);
 }
