@@ -4,7 +4,8 @@ void main()
 {
 	int a=10;
 	int b=20,c;
-	scanf("%d%d",&a,&b);
+	int e=a%b;
+	int f=a/b;
 	c=a*b;
 	printf("%d",c);
 }
